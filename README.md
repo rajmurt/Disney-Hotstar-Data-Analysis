@@ -18,4 +18,4 @@ This repository contains the data analysis for Disney+ Hotstar, examining user b
 - Data visualization tools
 
 ## View the final deliverable:
-- [Download the final PowerPoint presentation]()
+- [Download the final PowerPoint presentation](https://github.com/rajmurt/Disney-Hotstar-Data-Analysis/blob/7b4c835cf16f4318ec248514e74df4cbcd8219b1/Disney-Hotstar-Data-Analysis.pptx)
